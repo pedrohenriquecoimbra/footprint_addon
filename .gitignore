@@ -1,0 +1,5 @@
+sample/output/*
+scripts/satelite*
+scripts/PREP_fp.py
+scripts/__pycache__/*
+scripts/FFP_Python/*
